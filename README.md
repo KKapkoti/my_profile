@@ -1,2 +1,2 @@
 # CodSoft_Task3
-I Created a Portfolio using HTML, CSS &amp; JavaScript.
+I Created a Personal Portfolio using HTML, CSS &amp; JavaScript.
